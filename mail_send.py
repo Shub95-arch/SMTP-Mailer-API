@@ -6,8 +6,8 @@ license_key = "license_key"
 sender_name = "Riot Games"
 sender_email = "support@riot.org"
 subject = "your purchase was success"
-reciever_mail = "mail"
-message = "you have been jammed please contact us"
+reciever_mail = "mail@example.com"
+message = "Please enter your message"
 
 # Data to be sent in the request
 data = {
